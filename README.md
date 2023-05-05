@@ -1,6 +1,10 @@
+<img alt="Coding" width="1000" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+
 <h1 align="center">Hi 👋, I'm Md. Darain Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img alt="Coding" width="1000" src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+
+<img alt="Coding" align="right" width="500" src="https://media.tenor.com/kSiC-0wGr4kAAAAS/monkey-technology.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runtimeerror30&label=Profile%20views&color=0e75b6&style=flat" alt="runtimeerror30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runtimeerror30" alt="runtimeerror30" /></a> </p>
