@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Md. Darain Khan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img alt="Coding" align="right" width="500" src="https://media.tenor.com/kSiC-0wGr4kAAAAS/monkey-technology.gif">
+<img alt="Coding" align="right" width="350" src="https://media.tenor.com/kSiC-0wGr4kAAAAS/monkey-technology.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runtimeerror30&label=Profile%20views&color=0e75b6&style=flat" alt="runtimeerror30" /> </p>
 
