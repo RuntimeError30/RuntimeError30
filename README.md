@@ -1,4 +1,4 @@
-<div style="background-color:black; color:white">
+ <div style="background-color:black; color:white">
   <img src='img/pixel.gif' />
 
 # 💫 About Me:
