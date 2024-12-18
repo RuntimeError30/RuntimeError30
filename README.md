@@ -2,7 +2,7 @@
   <img src='img/pixel.gif' />
 
 # 💫 About Me:
-🔭 I’m currently working on **MateRov Software** – an innovative project for underwater exploration!  <br>🌱 Diving into **Rust** to level up my system programming skills.  <br>💬 Ask me about:  <br>- Languages: **C, C++, Java, JavaScript, JavaFX, Python, PHP**<br>- Frameworks/Tools: **MongoDB, MySQL, PostgreSQL**  <br><br>⚡ Fun fact: I can speak both Pythonic and C++ sarcasm fluently! <br>
+🔭 I’m currently working on **MateRov Software** – an innovative project for underwater exploration!  <br>🌱 Diving into **Rust** to level up my system programming skills.  <br>💬 Ask me about:  <br>- Languages: **C, C++, Java, JavaScript, JavaFX, Python, PHP**<br>- Frameworks/Tools: **Sveltekit, pyQT6, MongoDB, MySQL, PostgreSQL**  <br><br>⚡ Fun fact: I can speak both Pythonic and C++ sarcasm fluently! <br>
 
 
 ## 🌐 Socials:
